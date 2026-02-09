@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Eagle Tech Road Inspector",
+  "description": "A state-of-the-art infrastructure analysis tool for precision pavement distress detection and maintenance planning using advanced computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
